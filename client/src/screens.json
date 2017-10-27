@@ -7,6 +7,12 @@
       "name": "www",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
+    },
+    {
+      "id": "Eee",
+      "name": "eee",
+      "sourceScreenId": "Blank",
+      "sourceAppId": "default"
     }
   ]
 }
