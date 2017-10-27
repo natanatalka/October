@@ -1,2 +1,7 @@
 {
+  "Www": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
+  }
 }
